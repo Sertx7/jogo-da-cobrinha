@@ -73,4 +73,4 @@ Run the main file:
 - Python
 - Pygame
 
-![Aplicação](https://i.imgur.com/2JZIMuV.png)
+![Aplicação](https://i.imgur.com/OIO8y1b.png)
