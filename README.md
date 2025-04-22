@@ -70,5 +70,5 @@ Run the main file:
 
 # 🛠️ Technologies used
 
--Python
+- Python
 - Pygame
